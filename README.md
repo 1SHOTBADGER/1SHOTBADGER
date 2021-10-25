@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @1SHOTBADGER
 - 👀 I’m interested in game devolping  .
 - 🌱 I’m currently learning javascript .
-- 💞️ I’m looking to collaborate on a retrostyle game .
+- 💞️ I’m looking to collaborate on still dont know
+- .
 - 📫 How to reach me fahad.alsalihi05@gmail.com .
 
 <!---
