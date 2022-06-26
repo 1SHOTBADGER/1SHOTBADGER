@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @1SHOTBADGER
-- 👀 I’m interested in game devolping  .
-- 🌱 I’m currently learning javascript .
-- 💞️ I’m looking to collaborate on still dont know
+-  I’m interested in programing  .
+- I’m currently learning python and dart .
+- 
 - .
-- 📫 How to reach me fahad.alsalihi05@gmail.com .
+-  How to reach me nylfenta518@gmail.com .
 
 <!---
 1SHOTBADGER/1SHOTBADGER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
