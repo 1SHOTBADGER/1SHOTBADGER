@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1SHOTBADGER
--  I’m interested in programing netsec and cybersecurity.
+-  I’m interested in programing,netsec and cybersecurity.
 - I’m currently learning python and dart .
 - 
 - .
