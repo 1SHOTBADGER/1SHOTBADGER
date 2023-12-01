@@ -5,6 +5,6 @@
 - .
 -  How to reach me 1SH0TBADG3R#8266 discord .
 # MY STATS:
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)
+![](https://github-readme-stats.vercel.app/api?username=1SHOTBADGER&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1SHOTBADGER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
