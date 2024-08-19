@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @1SHOTBADGER
--  I’m interested in programing,netsec and cybersecurity.
-- I’m currently learning C .
-- 
-- .
+- I’m currently learning life :) .
 -  How to reach me 1SH0TBADG3R#8266 discord .
 # MY STATS:
 ![](https://github-readme-stats.vercel.app/api?username=1SHOTBADGER&count_private=true&show_icons=true&theme=tokyonight)
